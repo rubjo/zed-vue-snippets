@@ -1,6 +1,6 @@
 id = "vue-snippets"
 name = "Vue snippets"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Rune B"]
 description = "A collection of useful snippets for Vue 3."
