@@ -210,7 +210,7 @@
   "Vue Routing Link with param": {
     "prefix": "vrlink-param",
     "body": [
-      "<router-link :to=\"`/${1:path}/${${2:param}}`\">${3:linkTitle}</router-link>"
+      "<router-link :to=\"`/${1:path}/${2:param}`\">${3:linkTitle}</router-link>"
     ],
     "description": "vue router link with param"
   },
