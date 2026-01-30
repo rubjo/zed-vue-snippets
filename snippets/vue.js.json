@@ -432,6 +432,15 @@
     "body": ["const modelValue = defineModel()"],
     "description": "Vue defineModel"
   },
+  "Vue Define Async Component": {
+    "prefix": "vdefineasynccomponent",
+    "body": [
+      "const ${1:AsyncComponent} = defineAsyncComponent(() =>",
+      "\timport('${2:./${3:MyComponent}.vue}')",
+      ")"
+    ],
+    "description": "Vue defineAsyncComponent"
+  },
   "Vue Transition": {
     "prefix": "vcss-transition",
     "body": [

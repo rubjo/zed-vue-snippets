@@ -1,0 +1,14 @@
+{
+  "Vue Composable": {
+    "prefix": "vcomposable",
+    "body": [
+      "export function use${1:Feature}(${2:options} = {}) {",
+      "\t${3}",
+      "\treturn {",
+      "\t\t${0}",
+      "\t};",
+      "}"
+    ],
+    "description": "Generic Vue composable"
+  }
+}
