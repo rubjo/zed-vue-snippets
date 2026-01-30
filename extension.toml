@@ -5,4 +5,8 @@ schema_version = 1
 authors = ["Rune B"]
 description = "A collection of useful snippets for Vue 3."
 repository = "https://github.com/rubjo/zed-vue-snippets"
-snippets = "./snippets/vue.js.json"
+snippets = [
+  "./snippets/vue.js.json",
+  "./snippets/javascript.json",
+  "./snippets/typescript.json"
+]

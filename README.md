@@ -61,6 +61,13 @@ Based on the snippets from the [Vue 3 VS Code Snippets](https://marketplace.visu
 | `vsingleslot`               | Single slot for defineSlots          |
 | `vdefineoptions`            | Define Options                       |
 | `vdefinemodel`              | Define Model                         |
+| `vdefineasynccomponent`     | Define async component               |
+
+### `.ts / .js` files
+
+| Snippet       | Purpose                |
+| ------------- | ---------------------- |
+| `vcomposable` | Generic Vue composable |
 
 ### CSS
 
